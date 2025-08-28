@@ -67,15 +67,6 @@ Visualizations were created to uncover insights from the cleaned data:
 -   There is a very strong relationship between **gender and survival**. A significantly higher proportion of females survived compared to males.
 -   The age distribution of passengers is right-skewed, with most passengers being between 20 and 40 years old.
 
-## 📁 Project Structure
-
-```
-titanic-data-processing/
-│
-├── data-processing-for-titanic.ipynb  # Main Jupyter Notebook
-├── train.csv                           # Dataset (not included in repo)
-└── README.md                           # This file
-```
 
 ## 👨‍💻 Author
 
