@@ -79,7 +79,7 @@ titanic-data-processing/
 
 ## 👨‍💻 Author
 
-[Your Name]
+[Abdalla Ehab Hassan]
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/)
 - Check out my other projects on [GitHub](https://github.com/yourusername)
 
