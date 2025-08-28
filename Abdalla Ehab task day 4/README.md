@@ -1,6 +1,3 @@
-Of course! This is a great Jupyter notebook for data processing on the Titanic dataset. Here are some sections and content you can use for your `README.md` file to make your project clear and professional.
-
----
 
 # Titanic Dataset - Data Processing & EDA
 
