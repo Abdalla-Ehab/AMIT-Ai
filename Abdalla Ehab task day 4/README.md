@@ -68,8 +68,8 @@ Visualizations were created to uncover insights from the cleaned data:
 ## 👨‍💻 Author
 
 [Abdalla Ehab Hassan]
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- Check out my other projects on [GitHub](https://github.com/yourusername)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/abdalla-ehab)
+- Check out my other projects on [GitHub](https://github.com/Abdalla-Ehab)
 
 ## 📝 License
 
